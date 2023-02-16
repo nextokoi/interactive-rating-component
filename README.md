@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Interactive rating component [Tailwindcss, JS Vanilla]](https://www.frontendmentor.io/solutions/interactive-rating-component-tailwindcss-js-vanilla-NVeqldOTGy)
 - Live Site URL: [Frontend Mentor | Interactive rating component](https://interactive-rating-component-jet-nu.vercel.app/)
 
 ## My process
